@@ -11,4 +11,5 @@ api.all_array_methods{ |data| p data.command if data.name == "each"}
 #api.all_string_methods{ |data| data.command }
 
 #puts "-------------- FIXNUMS --------------"
+
 #api.all_fixnum_methods{ |data| data.command }
